@@ -8,6 +8,7 @@
 
 Welcome to **Black-Friday-Data-Analysis**! A retail company “XYZ Private Limited” wants to understand the customer purchase behavior (specifically, purchase amount) against various products of different categories. They have shared purchase summaries of various customers for selected high-volume products from last month. 
 
+**Dataset Link:** https://www.kaggle.com/datasets/sdolezel/black-friday
 ## Getting Started
 
 Just a few steps to get you up and running with the project:
